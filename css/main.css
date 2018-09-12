@@ -1,0 +1,38 @@
+main h1 {
+	color: Black;
+	background: white;
+	text-align:center;
+	font-size: 3rem;
+	letter-transform:uppercase;
+	line-height: 1.5;
+	font-weight: 900;
+	font-family:'Eczar';
+}
+
+
+main h2 {
+	color:white;
+	background: black;
+	text-align:center;
+	font-size: 2rem;
+	letter-spacing: uppercase;
+	line-height: 3;
+	font-weight: 900;
+	font-family: 'abel';
+
+}
+
+footer p { 
+margin-top: 40rem;
+padding: 1.5rem;
+text-align:right;
+line-height: 5;
+
+
+ }
+
+body {
+	background-image: url(../img/oskars-sylwan-688685-unsplash.jpg);
+	background-size: cover;
+}
+
